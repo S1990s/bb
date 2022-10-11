@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.amazon.in	TRUE	/	FALSE	1999999999	i18n-prefs	INR
+.amazon.in	TRUE	/	FALSE	1999999999	session-id-time	2082758401l
+.amazon.in	TRUE	/	FALSE	1999999999	session-id	261-4367292-7778254
+
